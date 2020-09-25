@@ -13,7 +13,7 @@ AGE_GROUPS = ["all", "MU23", "M23", "M35", "M40", "M45", "M50", "M55", "M60",
 PAST_YEAR = datetime.date.today().year - 1
 
 def retrieve_duv_statistics(event, /, *, gender, group='all',
-        year_min=PAST_YEAR-29, year_max=PAST_YEAR, filaname=None):
+        year_min=PAST_YEAR-29, year_max=PAST_YEAR, filename=None):
     
     url = 'https://statistik.d-u-v.org/getintbestlist.php'
     if filename is None:
@@ -22,6 +22,9 @@ def retrieve_duv_statistics(event, /, *, gender, group='all',
             filename += f"-{group}"
     if filename[-4:] != '.csv':
         filename += '.csv'
+
+    with open(filename, 'w') as fh:
+        pass
     
     print(f"Retrieve all DUV performances for {event} ({gender})")
     print(f"From {year_min} to {year_max} in age-group: {group}")
@@ -40,7 +43,6 @@ def retrieve_duv_statistics(event, /, *, gender, group='all',
                 req = urllib.request.Request(f"{url}?{data}")
                 with urllib.request.urlopen(req) as response:
                     contents = response.read() 
-                print('here')
                 soup = BeautifulSoup(contents, 'lxml')
 
                 results = soup.find(id='Resultlist')
@@ -77,7 +79,7 @@ if __name__ == '__main__':
         dest='year_min', help='First year to query')
     parser.add_argument('--year-max', type=int, default=PAST_YEAR,
         dest='year_max', help='First year to query')
-    parser.add_argumnet('--filename', '-f', type=str, default=None,
+    parser.add_argument('--filename', '-f', type=str, default=None,
         help='File to save to')
     args = parser.parse_args()
     retrieve_duv_statistics(args.event, gender=args.gender, group=args.group,
