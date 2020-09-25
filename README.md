@@ -1,3 +1,1 @@
-# duv
-#
-# Read from DUV ultrarunning database
+Read from DUV ultrarunning database
