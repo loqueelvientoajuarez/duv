@@ -1,0 +1,5 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+645.346,645.346,T,"Choi, Donald",USA,10.07.1980,1980,23.07.1948,M23,"Woodside, CA (USA)",29133,70063
+563.27,607.43,T,"Collins, Dick",USA,10.07.1980,1980,1933,M45,"Woodside, CA (USA)",113320,70063
+523.036,615.699,T,"Nagelschmidt, Fred",USA,10.07.1980,1980,20.05.1924,M55,"Woodside, CA (USA)",111264,70063
+482.803,483.335,T,"Buenfil, John",USA,10.07.1980,1980,1946,M23,"Woodside, CA (USA)",269062,70063

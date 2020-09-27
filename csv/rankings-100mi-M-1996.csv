@@ -1,0 +1,17 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+15:27:33,13:44:03,ST,"Boussiquet, Jean-Gilles",FRA,05.05.1996,1996,26.07.1944,M50,Surgeres (FRA),5394,6587
+16:06:19,15:03:31,ST,"Mallereau, Alain",FRA,05.05.1996,1996,28.09.1950,M45,Surgeres (FRA),5404,6587
+16:52:45,15:31:14,ST,"Gubar, Valerii (Губарь Валерий)",RUS,05.05.1996,1996,05.07.1948,M45,Surgeres (FRA),78153,6587
+20:17:11,18:58:04,ST,"Gobin, Jean-Francois",FRA,05.05.1996,1996,16.09.1950,M45,Surgeres (FRA),78161,6587
+22:07:48,19:39:38,ST,"Mallereau, Guy",FRA,05.05.1996,1996,24.02.1945,M50,Surgeres (FRA),78144,6587
+15:31:05,15:10:59,ST,"Arita, Seigi (有田せいぎ)",JPN,05.05.1996,1996,25.01.1957,M35,Surgeres (FRA),19617,6587
+17:13:54,15:02:24,ST,"Kingsford, Colin",CAN,15.09.1996,1996,18.11.1942,M50,"Ottawa, ON (CAN)",19648,9566
+18:26:13,18:26:13,ST,"Kalovsky, Rob",CAN,15.09.1996,1996,1969,M23,"Ottawa, ON (CAN)",66855,9566
+20:55:45,19:43:56,ST,"Mittleman, Stuart",USA,05.05.1996,1996,12.05.1951,M40,Surgeres (FRA),78159,6587
+20:56:29,18:55:45,ST,"Gehl, Ronald",CAN,15.09.1996,1996,30.06.1947,M45,"Ottawa, ON (CAN)",15626,9566
+21:21:25,18:08:34,ST,"Dickey, William",USA,15.09.1996,1996,1939,M55,"Ottawa, ON (CAN)",16864,9566
+23:09:37,23:09:21,ST,"Gagnon, Marcel",CAN,15.09.1996,1996,1963,M23,"Ottawa, ON (CAN)",19773,9566
+23:20:21,21:05:47,ST,"Cookson, John",CAN,15.09.1996,1996,1946,M45,"Ottawa, ON (CAN)",66858,9566
+23:49:59,20:59:15,ST,"Kempel, Ron",CAN,15.09.1996,1996,1943,M50,"Ottawa, ON (CAN)",74341,9566
+12:12:51,11:52:42,ST,"Kouros, Yiannis",AUS,14.04.1996,1996,13.02.1956,M40,"Coburg, VIC (AUS)",950127,41196
+12:36:57,12:16:09,ST,"Kouros, Yiannis",AUS,05.05.1996,1996,13.02.1956,M40,Surgeres (FRA),950127,6587

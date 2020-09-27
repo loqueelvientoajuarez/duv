@@ -1,0 +1,13 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+5:01:01,4:58:37,T,"Hampton, Phil",GBR,16.07.1971,1971,25.02.1935,M35,Portsmouth (GBR),1042144,68521
+5:46:02,5:45:58,T,"Bentley, Gordon",GBR,16.07.1971,1971,27.07.1938,M23,Portsmouth (GBR),947128,68521
+6:15:01,6:14:01,T,"Turner, W. Don",GBR,16.07.1971,1971,14.02.1937,M23,Portsmouth (GBR),781985,68521
+6:24:43,6:23:41,T,"Blatchford, Alan",GBR,16.07.1971,1971,23.08.1936,M23,Portsmouth (GBR),781989,68521
+5:36:52,5:12:23,,"McDonagh, Jim",USA,21.02.1971,1971,1924,M45,"New York, NY (USA)",267672,13432
+5:39:14,5:35:14,,"Chiapetta, Vince",USA,21.02.1971,1971,1933,M35,"New York, NY (USA)",267568,13432
+5:55:48,5:13:20,,"Corbitt, Ted",USA,21.02.1971,1971,31.01.1919,M50,"New York, NY (USA)",29139,13432
+6:23:10,6:23:10,,"Grotsky, Stephen",USA,21.02.1971,1971,1942,M23,"New York, NY (USA)",267619,13432
+6:29:17,6:29:17,,"Lindaur, Don",USA,21.02.1971,1971,,#NA,"New York, NY (USA)",267655,13432
+6:40:38,6:40:38,,"Meehan, Al",USA,21.02.1971,1971,1941,M23,"New York, NY (USA)",267677,13432
+7:10:25,6:45:48,,"Capurso, Mauro",USA,21.02.1971,1971,1926,M40,"New York, NY (USA)",267564,13432
+8:07:17,8:07:17,,"Kenul, John",USA,21.02.1971,1971,08.11.1943,M23,"New York, NY (USA)",55687,13432

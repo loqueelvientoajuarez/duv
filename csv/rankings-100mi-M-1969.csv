@@ -1,0 +1,5 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+12:31:10,12:22:19,T,"Tarrant, John",GBR,26.10.1969,1969,04.02.1932,M35,Walton-on-Thames (GBR),1048503,67083
+14:38:07,14:38:07,T,"Bentley, Gordon",GBR,26.10.1969,1969,27.07.1938,M23,Walton-on-Thames (GBR),947128,67083
+13:01:43,12:40:14,T,"Box, Dave",RSA,26.10.1969,1969,02.03.1929,M40,Walton-on-Thames (GBR),1042146,67083
+13:33:06,12:08:38,T,"Corbitt, Ted",USA,26.10.1969,1969,31.01.1919,M50,Walton-on-Thames (GBR),29139,67083

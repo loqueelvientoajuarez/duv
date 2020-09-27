@@ -1,0 +1,23 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+216.648,216.648,ST,"Paul-Cox, Rosalind",GBR,23.08.1982,1982,27.05.1959,W23,Nottingham (GBR),187829,10508
+214.902,215.917,T,"Fitzgerald, Lynn",GBR,23.05.1982,1982,09.09.1947,W23,"Podsmead, Gloucester (GBR)",113470,49551
+208.201,208.201,T,"Paul-Cox, Rosalind",GBR,23.05.1982,1982,27.05.1959,WU23,"Podsmead, Gloucester (GBR)",187829,49551
+202.6,206.566,,"Couhe, Edith",FRA,14.11.1982,1982,26.04.1944,W35,Niort (FRA),78154,2018
+169.0,192.133,,"Duschl, Gisela",GER,14.11.1982,1982,12.07.1932,W50,Niort (FRA),467,2018
+203.011,220.114,T,"Medaglia, Suzuko (Sue)",USA,26.09.1982,1982,1935,W45,"Greenwich, CT (USA)",232776,67109
+197.06,213.661,T,"Medaglia, Suzuko (Sue)",USA,31.10.1982,1982,1935,W45,"New York, NY (USA)",232776,13544
+170.883,172.157,T,"Stott, Beryl (Kanchan)",CAN,31.10.1982,1982,1946,W35,"New York, NY (USA)",268759,13544
+164.91,164.91,T,"Cavanagh, Kim",USA,31.10.1982,1982,1951,W23,"New York, NY (USA)",268760,13544
+164.259,164.259,T,"Cavanagh, Kim",USA,26.09.1982,1982,1951,W23,"Greenwich, CT (USA)",268760,67109
+161.552,161.552,T,"Hanscom, Robyn",USA,26.09.1982,1982,1951,W23,"Greenwich, CT (USA)",918939,67109
+147.399,155.337,T,"Tucker, Lenis (Lennie)",USA,04.07.1982,1982,1938,W40,"Ottawa, ON (CAN)",321826,70282
+131.591,132.572,T,"Byrnes, Anita",USA,26.09.1982,1982,1946,W35,"Greenwich, CT (USA)",918634,67109
+122.69,122.825,T,"Adelman, Judy (Sutapa)",CAN,26.09.1982,1982,06.02.1950,W23,"Greenwich, CT (USA)",283068,67109
+118.522,118.653,T,"Adelman, Judy (Sutapa)",CAN,04.07.1982,1982,06.02.1950,W23,"Ottawa, ON (CAN)",283068,70282
+117.487,136.995,T,"Kallai, Ilona (Sulochana)",USA,31.10.1982,1982,05.01.1930,W50,"New York, NY (USA)",268763,13544
+108.459,118.898,ST,"Nolan-Cannata, Beverly",USA,23.08.1982,1982,1934,W45,Nottingham (GBR),111224,10508
+99.005,108.534,T,"Nolan-Cannata, Beverly",USA,26.09.1982,1982,1934,W45,"Greenwich, CT (USA)",111224,67109
+96.95,106.282,T,"Nolan-Cannata, Beverly",USA,31.10.1982,1982,1934,W45,"New York, NY (USA)",111224,13544
+87.175,87.192,T,"Ross, Abby Lynn",USA,07.03.1982,1982,1950,W23,"Miami, FL (USA)",918776,21324
+161.612,161.612,T,"Haarsma, Kay",AUS,14.11.1982,1982,,#NA,"Adelaide, SA (AUS)",280296,14000
+127.206,127.206,T,"Morris, Helen",AUS,14.11.1982,1982,,#NA,"Adelaide, SA (AUS)",280316,14000

@@ -1,0 +1,5 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+838.8,859.69,T,"Robinson, Eleanor",GBR,22.11.1987,1987,20.11.1947,W35,"Colac, VIC (AUS)",35368,6557
+501.4,543.641,I,"Touchard, Arlette",FRA,07.10.1987,1987,28.06.1941,W45,La Rochelle (FRA),78138,2045
+785.2,809.568,T,"Hudson, Donna Barbara",USA,22.11.1987,1987,07.10.1947,W40,"Colac, VIC (AUS)",113064,6557
+538.0,562.467,T,"Andrews, Sue",NZL,22.11.1987,1987,22.05.1945,W40,"Colac, VIC (AUS)",113065,6557

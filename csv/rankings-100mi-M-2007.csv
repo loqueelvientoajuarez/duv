@@ -1,0 +1,23 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+15:42:43,15:42:32,ST,"Cudin, Ivan",ITA,06.05.2007,2007,15.02.1975,M23,Madrid (ESP),7511,45748
+16:02:33,15:29:38,ST,"Baggi, Marco",ITA,06.05.2007,2007,23.07.1965,M40,Madrid (ESP),5620,45748
+16:19:19,16:03:22,ST,"Marchesi, Tiziano",ITA,06.05.2007,2007,02.03.1969,M35,Madrid (ESP),5800,45748
+16:12:57,15:02:13,,"Norris, Craig Harold",RSA,01.09.2007,2007,09.01.1961,M45,Winterton (RSA),46958,1510
+16:56:50,16:06:37,,"Shushu, Zabevuya",RSA,01.09.2007,2007,16.07.1964,M40,Winterton (RSA),13970,1510
+17:08:56,16:56:48,,"Eichert, Paul",RSA,01.09.2007,2007,20.08.1970,M35,Winterton (RSA),65417,1510
+19:26:05,17:34:02,,"Ndlovu, Bongani",RSA,01.09.2007,2007,31.08.1958,M45,Winterton (RSA),37331,1510
+19:32:20,16:44:56,,"Oosthuizen, Pieter",RSA,01.09.2007,2007,1951,M55,Winterton (RSA),81685,1510
+19:35:43,18:55:31,,"Kobus, Grant",RSA,01.09.2007,2007,25.01.1966,M40,Winterton (RSA),46962,1510
+19:50:14,18:05:09,,"van der Merwe, Lukas Johannes",RSA,01.09.2007,2007,12.11.1958,M45,Winterton (RSA),42880,1510
+21:17:48,18:35:16,,"Barnes, Garry",RSA,01.09.2007,2007,01.08.1954,M50,Winterton (RSA),81686,1510
+21:45:35,21:44:09,,"Carstens, Hendrik",RSA,01.09.2007,2007,09.03.1974,M23,Winterton (RSA),81687,1510
+22:24:52,19:12:50,,"Hagerman, Clifford Bruce",RSA,01.09.2007,2007,19.04.1952,M55,Winterton (RSA),46973,1510
+22:40:45,22:18:35,,"Greeves, Jerry Thomas",RSA,01.09.2007,2007,03.09.1968,M35,Winterton (RSA),81688,1510
+22:40:51,18:44:12,,"Vermeulen, Neels",RSA,01.09.2007,2007,16.11.1947,M55,Winterton (RSA),21538,1510
+23:01:20,20:48:36,,"Shamase, Mthembeni David",RSA,01.09.2007,2007,18.06.1958,M45,Winterton (RSA),46970,1510
+23:50:35,23:01:40,,"Gill, Philip",RSA,01.09.2007,2007,29.07.1966,M40,Winterton (RSA),81690,1510
+25:15:20,23:36:51,,"Sissing, Nick",RSA,01.09.2007,2007,03.04.1962,M45,Winterton (RSA),81692,1510
+25:30:30,22:27:46,,"Grundlingh, Andre",RSA,01.09.2007,2007,05.06.1955,M50,Winterton (RSA),81693,1510
+25:38:03,21:10:35,,"Naidoo, Gopaul",RSA,01.09.2007,2007,05.03.1948,M55,Winterton (RSA),46977,1510
+25:55:58,23:38:35,,"Naidoo, Rammurthi",RSA,01.09.2007,2007,03.10.1958,M45,Winterton (RSA),46974,1510
+25:56:52,24:27:49,,"Naidoo, Stanley",RSA,01.09.2007,2007,16.10.1962,M40,Winterton (RSA),81694,1510

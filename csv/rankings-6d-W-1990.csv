@@ -1,0 +1,15 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+738.23,800.423,T,"Nierkens, Renate",GER,19.10.1990,1990,25.08.1944,W45,Gateshead (GBR),1797,2069
+693.627,852.541,S,"Vollmerhausen, Christel",GER,24.10.1990,1990,02.12.1933,W55,"New York, NY (USA)",30198,2068
+477.81,492.638,T,"Karpiskova, Jaroslava",CZE,19.10.1990,1990,1949,W40,Gateshead (GBR),107792,2069
+708.111,711.455,,"Beckjord, Suprabha",USA,13.05.1990,1990,21.02.1956,W23,"New York, NY (USA)",14380,69182
+579.363,610.563,,"Garrett, Essie",USA,13.05.1990,1990,01.01.1947,W40,"New York, NY (USA)",268178,69182
+563.27,567.469,,"Trusz, Mary-Anne",CAN,13.05.1990,1990,21.10.1954,W35,"New York, NY (USA)",603104,69182
+523.036,523.036,,"Lozej, Nali",CAN,13.05.1990,1990,1964,W23,"New York, NY (USA)",603130,69182
+486.021,493.222,,"Weisbrot, Bhikshuni",USA,13.05.1990,1990,04.04.1953,W35,"New York, NY (USA)",275198,69182
+883.631,917.105,T,"Barwick, Sandra",NZL,24.11.1990,1990,27.02.1949,W40,"Campbelltown, NSW (AUS)",78162,4629
+738.903,810.023,T,"McConnell, Georgina",AUS,24.11.1990,1990,02.08.1943,W45,"Campbelltown, NSW (AUS)",78190,4629
+691.588,713.051,T,"Stanger, Helen",AUS,24.11.1990,1990,04.06.1950,W40,"Campbelltown, NSW (AUS)",64781,4629
+591.315,628.657,T,"Foley, Wanda",AUS,24.11.1990,1990,24.01.1946,W40,"Campbelltown, NSW (AUS)",78197,4629
+571.571,571.571,T,"Gladwell, Lucille",AUS,24.11.1990,1990,,#NA,"Campbelltown, NSW (AUS)",78199,4629
+571.571,571.571,T,"Warren, Valerie",AUS,24.11.1990,1990,,#NA,"Campbelltown, NSW (AUS)",78198,4629

@@ -1,0 +1,57 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+363.717,429.621,T,"Eremina, Galina (Еремина Галина)",RUS,14.05.2006,2006,14.02.1953,W50,Surgeres (FRA),5388,462
+352.257,352.645,T,"Dimitriadu, Michaela",CZE,14.05.2006,2006,23.12.1973,W23,Surgeres (FRA),5389,462
+337.78,415.167,T,"Reutovich, Irina (Реутович Ирина)",RUS,14.05.2006,2006,21.01.1950,W55,Surgeres (FRA),5392,462
+331.228,331.593,I,"Dimitriadu, Michaela",CZE,26.03.2006,2006,23.12.1973,W23,Brno (CZE),5389,298
+327.225,351.175,T,"Pilgaard, Mette Normind",DEN,14.05.2006,2006,02.04.1961,W45,Surgeres (FRA),5033,462
+322.399,357.585,T,"Bodet-David, Christine",FRA,14.05.2006,2006,08.05.1958,W45,Surgeres (FRA),5395,462
+306.415,335.908,T,"Koval, Irina (Коваль Ирина)",RUS,14.05.2006,2006,19.11.1958,W45,Surgeres (FRA),5397,462
+297.72,322.802,,"Hausmann, Martina",GER,06.08.2006,2006,13.01.1960,W45,Kladno (CZE),857,523
+292.542,313.954,T,"Semur, Joelle",FRA,14.05.2006,2006,22.12.1960,W45,Surgeres (FRA),5401,462
+270.827,293.643,T,"Bullig, Cornelia",GER,14.05.2006,2006,20.09.1959,W45,Surgeres (FRA),308,462
+260.573,315.999,T,"Le Cerf, Christiane",FRA,14.05.2006,2006,12.06.1950,W55,Surgeres (FRA),5403,462
+253.522,303.401,,"Mocellin, Marina",ITA,01.05.2006,2006,13.07.1951,W50,San Vito al Tagliamento (ITA),8002,65955
+252.667,254.551,S,"Janakova, Theresa (Kaneenika)",SVK,02.05.2006,2006,1970,W35,"New York, NY (USA)",22387,743
+248.325,293.32,I,"Tarasova, Nadezhda (Тарасова Надежда)",RUS,26.03.2006,2006,07.04.1952,W50,Brno (CZE),5514,298
+244.174,264.745,S,"Hausmann, Martina",GER,09.04.2006,2006,13.01.1960,W45,Loutraki (GRE),857,588
+232.19,242.75,S,"Pawzik, Heike",GER,09.04.2006,2006,21.09.1963,W40,Loutraki (GRE),1867,588
+214.042,214.042,S,"Tobolkova, Zuzana",CZE,02.05.2006,2006,21.12.1980,W23,"New York, NY (USA)",2596,743
+211.554,222.947,S,"Leblanc, Patricia",FRA,20.11.2006,2006,03.10.1963,W40,Monaco (MON),11537,584
+210.408,219.977,S,"Leblanc, Patricia",FRA,03.05.2006,2006,03.10.1963,W40,Antibes (FRA),11537,607
+209.241,220.509,S,"de Laroche, Anne",FRA,20.11.2006,2006,06.07.1963,W40,Monaco (MON),15179,584
+205.996,223.35,S,"Makowka, Friederike (Puneeta)",SUI,02.05.2006,2006,04.02.1960,W45,"New York, NY (USA)",22388,743
+205.975,234.169,S,"Janosi, Elvira",SRB,09.04.2006,2006,02.12.1955,W50,Loutraki (GRE),11324,588
+203.492,216.343,,"Gargano, Angela",ITA,01.05.2006,2006,10.09.1961,W40,San Vito al Tagliamento (ITA),7999,65955
+202.09,202.09,,"Nemcova, Ivana (Ilvaka)",CZE,06.08.2006,2006,27.01.1981,W23,Kladno (CZE),3363,523
+196.023,214.89,,"Sterni, Gabriella",ITA,01.05.2006,2006,05.10.1958,W45,San Vito al Tagliamento (ITA),10053,65955
+193.53,193.53,,"Bauernoplova, Iva",CZE,06.08.2006,2006,,#NA,Kladno (CZE),11897,523
+183.465,183.667,S,"Samarina, Svitlana (Makula) (Самаріна Світлана)",UKR,02.05.2006,2006,21.10.1973,W23,"New York, NY (USA)",22391,743
+182.306,207.26,,"Janosi, Elvira",SRB,19.11.2006,2006,02.12.1955,W50,"McKinney, TX (USA)",11324,595
+180.246,210.175,S,"Pekhovych, Tatyana",UKR,02.05.2006,2006,1953,W50,"New York, NY (USA)",22390,743
+178.209,182.647,S,"Lamoureux, Nathalie",FRA,20.11.2006,2006,25.04.1967,W35,Monaco (MON),15174,584
+172.27,178.796,S,"Resnik, Manuela",AUT,09.04.2006,2006,22.06.1964,W40,Loutraki (GRE),3445,588
+157.715,159.421,S,"Muzychenko, Hanna (Rageshri)",UKR,02.05.2006,2006,1969,W35,"New York, NY (USA)",22394,743
+156.106,177.474,S,"Jevdokimova, Uljana Litaf",FIN,02.05.2006,2006,1955,W50,"New York, NY (USA)",22393,743
+155.792,155.792,S,"Pallaruelo, Rosi",FRA,09.04.2006,2006,,#NA,Loutraki (GRE),11329,588
+153.441,168.21,S,"Cormier, Mireille",FRA,20.11.2006,2006,15.02.1959,W45,Monaco (MON),11648,584
+133.2,147.737,S,"David-Bodet, Christine",FRA,20.11.2006,2006,08.05.1958,W45,Monaco (MON),15225,584
+382.416,394.284,T,"Inagaki, Sumie (稲垣寿美恵)",JPN,14.05.2006,2006,06.04.1966,W40,Surgeres (FRA),5387,462
+331.145,367.286,T,"Kamura, Masae (加村雅柄)",JPN,14.05.2006,2006,04.04.1958,W45,Surgeres (FRA),5393,462
+239.68,252.587,S,"Okiyama, Hiroko (Yuko) (沖山裕子)",JPN,09.04.2006,2006,21.04.1962,W40,Loutraki (GRE),4886,588
+303.399,325.605,T,"Reed, Pamela",USA,14.05.2006,2006,27.02.1961,W45,Surgeres (FRA),5398,462
+255.29,273.975,,"Richmeier, Debra",USA,26.02.2006,2006,1960,W45,"Houston, TX (USA)",15030,590
+228.104,240.388,,"Boisvert, Sylvie",CAN,30.07.2006,2006,06.12.1962,W40,"Drummondville, QC (CAN)",15632,696
+204.61,269.721,,"Landry, Marion",CAN,30.07.2006,2006,27.08.1944,W60,"Drummondville, QC (CAN)",17017,696
+186.345,211.852,S,"Beckjord, Suprabha",USA,13.06.2006,2006,21.02.1956,W50,"New York, NY (USA)",14380,605
+162.543,162.543,S,"Hanlen, Shishaldin",USA,02.05.2006,2006,1981,W23,"New York, NY (USA)",21239,743
+161.578,163.326,,"Albert, Susan",USA,26.02.2006,2006,1969,W35,"Houston, TX (USA)",15034,590
+161.035,203.43,S,"Yates, Suki Ann (Sue)",USA,09.04.2006,2006,1947,W55,Loutraki (GRE),11332,588
+156.106,184.392,S,"Broderick, Jackie",USA,02.05.2006,2006,1952,W50,"New York, NY (USA)",22392,743
+149.8,164.218,S,"Nguyen, Mylinh",USA,09.04.2006,2006,1958,W45,Loutraki (GRE),11333,588
+141.609,148.049,,"Jacob, Manon",CAN,30.07.2006,2006,11.11.1963,W40,"Drummondville, QC (CAN)",17020,696
+100.0,100.0,T,"Payne, Crystal",USA,01.01.2006,2006,1982,WU23,"Buckeye, AZ (USA)",17151,219
+286.463,314.035,S,"Cunningham, Catherine (Dipali)",AUS,02.05.2006,2006,27.08.1958,W45,"New York, NY (USA)",22386,743
+212.433,212.475,S,"Davies, Kathy (Harita)",NZL,02.05.2006,2006,18.02.1975,W23,"New York, NY (USA)",22389,743
+181.915,183.271,T,"De Williams, Deborah",AUS,13.08.2006,2006,1970,W35,"Runaway Bay, Gold Coast, QLD (AUS)",15055,571
+160.934,162.675,S,"Butler, Sophie",NZL,02.05.2006,2006,1969,W35,"New York, NY (USA)",19109,743
+160.934,209.114,S,"Field, Harieta (Abhaya)",NZL,02.05.2006,2006,1945,W60,"New York, NY (USA)",14788,743

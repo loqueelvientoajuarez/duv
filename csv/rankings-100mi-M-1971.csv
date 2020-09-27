@@ -1,0 +1,13 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+12:37:55,12:17:05,T,"Bentley, J. Ron",GBR,23.10.1971,1971,10.11.1930,M40,Uxbridge (GBR),279656,68341
+12:51:38,12:34:58,T,"Tarrant, John",GBR,23.10.1971,1971,04.02.1932,M35,Uxbridge (GBR),1048503,68341
+13:14:17,13:13:25,T,"Bentley, Gordon",GBR,23.10.1971,1971,27.07.1938,M23,Uxbridge (GBR),947128,68341
+13:22:29,13:22:29,T,"Genson, Theo",LUX,23.10.1971,1971,1942,M23,Uxbridge (GBR),722299,68341
+14:12:13,14:12:13,T,"Shaw, Ken",GBR,23.10.1971,1971,21.06.1940,M23,Uxbridge (GBR),222280,68341
+15:40:20,14:46:33,T,"Funnell, Derek",GBR,23.10.1971,1971,23.08.1927,M40,Uxbridge (GBR),297688,68341
+13:48:12,13:48:12,T,"Sutherland, Koos",RSA,28.08.1971,1971,17.06.1940,M23,Johannesburg (RSA),1032255,68605
+14:06:23,14:06:23,T,"Hodgkiss, Davie",RSA,28.08.1971,1971,,#NA,Johannesburg (RSA),1485699,68605
+14:34:06,14:34:06,T,"Ferguson, Alan",RSA,28.08.1971,1971,1947,M23,Johannesburg (RSA),1279122,68605
+15:31:40,13:47:42,T,"Pritchard, Eddie",RSA,28.08.1971,1971,1919,M50,Johannesburg (RSA),1333093,68605
+15:31:50,15:31:50,T,"Tanner, E.",RSA,28.08.1971,1971,,#NA,Johannesburg (RSA),1485698,68605
+22:15:42,22:15:42,T,"Hutchinson, Mavis",RSA,28.08.1971,1971,,#NA,Johannesburg (RSA),1360786,68605

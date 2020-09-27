@@ -1,0 +1,10 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+17:49:39,17:17:28,S,"Nardin, Maria Teresa",ITA,05.05.1991,1991,19.11.1950,W40,Basel (SUI),5571,8003
+21:01:10,18:15:27,S,"Westreicher, Helen (Tarangini)",SUI,05.05.1991,1991,1939,W50,Basel (SUI),106743,8003
+22:14:10,22:14:10,S,"Nocker, Prafulla",AUT,05.05.1991,1991,05.09.1962,W23,Basel (SUI),33809,8003
+23:35:21,18:55:58,S,"Vollmerhausen, Christel",GER,05.05.1991,1991,02.12.1933,W55,Basel (SUI),30198,8003
+23:52:10,22:00:54,S,"Nierkens, Renate",GER,05.05.1991,1991,25.08.1944,W45,Basel (SUI),1797,8003
+13:47:41,13:47:41,,"Trason, Ann",USA,05.05.1991,1991,30.08.1960,W23,"New York, NY (USA)",68591,54909
+21:38:42,19:02:21,S,"Johnson, Janet",USA,15.09.1991,1991,1940,W50,"New York, NY (USA)",115483,67133
+23:44:06,21:08:19,,"Greher, Ruth",USA,05.05.1991,1991,26.03.1942,W45,"New York, NY (USA)",254204,54909
+23:50:26,21:13:57,S,"Greher, Ruth",USA,15.09.1991,1991,26.03.1942,W45,"New York, NY (USA)",254204,67133

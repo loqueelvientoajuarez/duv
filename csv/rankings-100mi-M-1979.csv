@@ -1,0 +1,15 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+11:51:12,11:49:17,,"Ritchie, Donald A.",GBR,16.06.1979,1979,06.07.1944,M23,"New York, NY (USA)",63449,46797
+13:09:15,12:47:33,ST,"Newton, Mike",GBR,28.10.1979,1979,01.11.1938,M40,London (GBR),98823,49774
+14:55:07,14:50:39,ST,"Jones, David",GBR,28.10.1979,1979,11.04.1944,M35,London (GBR),964506,49774
+13:58:38,13:44:58,T,"Donson, Bill",RSA,27.10.1979,1979,1940,M35,Johannesburg (RSA),1354755,68609
+14:52:22,14:52:22,T,"Netshifhefhe, Samson",RSA,27.10.1979,1979,1947,M23,Johannesburg (RSA),494096,68609
+15:00:02,14:35:17,T,"Saayman, Manie",RSA,27.10.1979,1979,20.07.1939,M40,Johannesburg (RSA),493800,68609
+15:43:13,15:27:51,T,"Cossey, Arthur",RSA,27.10.1979,1979,1940,M35,Johannesburg (RSA),493967,68609
+15:52:46,15:50:12,T,"Smith, J.",RSA,27.10.1979,1979,1944,M23,Johannesburg (RSA),1358919,68609
+16:21:31,16:05:32,ST,"Keating, Len",ZIM,27.08.1979,1979,16.11.1940,M35,Salisbury (ZIM),493867,68599
+16:49:42,16:49:42,T,"van Vuuren, M.",RSA,27.10.1979,1979,1948,M23,Johannesburg (RSA),1356885,68609
+16:58:34,16:57:27,T,"Crawford, Basil",RSA,27.10.1979,1979,1945,M23,Johannesburg (RSA),1266161,68609
+13:33:46,13:33:46,,"Caldwell, Richard (Lion)",USA,16.06.1979,1979,29.04.1951,M23,"New York, NY (USA)",75302,46797
+14:14:10,14:11:52,,"Barner, Park",USA,16.06.1979,1979,1944,M23,"New York, NY (USA)",193809,46797
+14:34:41,14:34:41,,"Mittleman, Stuart",USA,16.06.1979,1979,12.05.1951,M23,"New York, NY (USA)",78159,46797

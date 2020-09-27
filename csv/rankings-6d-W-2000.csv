@@ -1,0 +1,34 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+704.892,726.768,S,"Hausmann, Martina",GER,10.09.2000,2000,13.01.1960,W40,"New York, NY (USA)",857,2172
+703.283,708.526,S,"Zimmermann, Gabrielle (Nidhruvi)",AUT,10.09.2000,2000,26.06.1965,W35,"New York, NY (USA)",3425,2172
+696.845,723.243,S,"Mairer, Paula (Surasa)",AUT,13.09.2000,2000,06.03.1959,W40,"New York, NY (USA)",3437,6579
+690.0,707.185,T,"Hausmann, Martina",GER,01.01.2000,2000,13.01.1960,W35,"Queen Creek, AZ (USA)",857,6097
+679.947,701.049,ST,"Hausmann, Martina",GER,29.03.2000,2000,13.01.1960,W40,"Nanango, QLD (AUS)",857,6574
+603.504,795.55,S,"Bayer, Else",GER,13.09.2000,2000,30.06.1939,W60,"New York, NY (USA)",107,6579
+603.504,603.504,S,"Svecova, Lenka",CZE,16.09.2000,2000,06.06.1974,W23,"New York, NY (USA)",24280,6582
+595.457,595.457,S,"Bercic, Tina (Prakashita)",SLO,16.09.2000,2000,1973,W23,"New York, NY (USA)",37318,6582
+589.019,723.966,S,"Khisamutdinova, Svetlana (Pratishruti) (Хисамутдинова Светлана)",RUS,13.09.2000,2000,07.03.1944,W55,"New York, NY (USA)",15471,6579
+571.317,607.396,S,"Janosi, Elvira",SRB,16.09.2000,2000,02.12.1955,W40,"New York, NY (USA)",11324,6582
+564.88,600.553,S,"Janosi, Elvira",SRB,02.05.2000,2000,02.12.1955,W40,"New York, NY (USA)",11324,2895
+563.27,604.497,S,"Condon, Kate",GBR,16.09.2000,2000,18.07.1955,W45,"New York, NY (USA)",16993,6582
+537.521,537.521,,"Svecova, Lenka",CZE,02.05.2000,2000,06.06.1974,W23,"New York, NY (USA)",24280,2898
+537.52,537.52,S,"Porits, Kadri",EST,16.09.2000,2000,1971,W23,"New York, NY (USA)",113097,6582
+534.302,538.285,S,"Bolliger, Karin (Vedika)",SUI,02.05.2000,2000,17.12.1964,W35,"New York, NY (USA)",220,2895
+516.599,516.599,,"Hammerl, Sonja (Ghandika)",AUT,02.05.2000,2000,1975,W23,"New York, NY (USA)",24259,2898
+487.631,599.35,,"Khisamutdinova, Svetlana (Pratishruti) (Хисамутдинова Светлана)",RUS,02.05.2000,2000,07.03.1944,W55,"New York, NY (USA)",15471,2898
+428.086,436.466,S,"Papp, Andrea",HUN,02.05.2000,2000,1961,W35,"New York, NY (USA)",60188,2895
+304.0,323.198,T,"Janosi, Elvira",SRB,25.11.2000,2000,02.12.1955,W40,"Colac, VIC (AUS)",11324,6564
+601.0,602.567,,"Möller, Charlotte",RSA,01.04.2000,2000,01.04.1966,W23,Randburg (RSA),65786,2651
+513.7,533.16,,"Botha, Anita",RSA,01.04.2000,2000,04.09.1958,W40,Randburg (RSA),22341,2651
+427.3,435.665,,"Booysen, Sharon",RSA,01.04.2000,2000,03.12.1961,W35,Randburg (RSA),65788,2651
+421.0,447.587,,"Kritzinger, Petro",RSA,01.04.2000,2000,1955,W40,Randburg (RSA),65757,2651
+635.046,675.15,,"Andonie Graziano, Silvia",MEX,02.05.2000,2000,07.10.1955,W40,"New York, NY (USA)",12026,2898
+523.036,580.12,S,"Lang, Sutushti",USA,16.09.2000,2000,15.04.1952,W45,"New York, NY (USA)",113096,6582
+436.132,472.874,S,"Charce-Gaspard, Huguette",CAN,13.09.2000,2000,1953,W45,"New York, NY (USA)",113094,6579
+364.8,425.373,T,"Johnson, Cassandra",USA,01.01.2000,2000,1946,W50,"Queen Creek, AZ (USA)",16871,6097
+734.408,762.229,,"Cunningham, Catherine (Dipali)",AUS,02.05.2000,2000,27.08.1958,W40,"New York, NY (USA)",22386,2898
+719.376,752.092,S,"Cunningham, Catherine (Dipali)",AUS,16.09.2000,2000,27.08.1958,W40,"New York, NY (USA)",22386,6582
+696.4,763.429,T,"Parris, Dawn",AUS,25.11.2000,2000,19.02.1953,W45,"Colac, VIC (AUS)",15332,6564
+542.349,542.349,,"Davies, Kathy (Harita)",NZL,02.05.2000,2000,18.02.1975,W23,"New York, NY (USA)",22389,2898
+497.287,595.126,S,"File, Dianne (Niribili)",NZL,02.05.2000,2000,1945,W50,"New York, NY (USA)",14781,2895
+410.383,413.442,,"Ballantyne, Gael",NZL,02.05.2000,2000,1964,W35,"New York, NY (USA)",60199,2898

@@ -1,0 +1,6 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+15:58:15,15:53:45,ST,"Fitzgerald, Lynn",GBR,23.05.1982,1982,09.09.1947,W23,"Podsmead, Gloucester (GBR)",113470,49552
+16:06:56,14:51:49,T,"Sumner, Yvonne",RSA,15.10.1982,1982,1935,W45,Durban (RSA),493807,68595
+17:46:11,16:23:21,ST,"Medaglia, Suzuko (Sue)",USA,31.10.1982,1982,1935,W45,"New York, NY (USA)",232776,67110
+21:50:10,21:40:29,ST,"Stott, Beryl (Kanchan)",CAN,31.10.1982,1982,1946,W35,"New York, NY (USA)",268759,67110
+23:13:11,23:13:11,ST,"Cavanagh, Kim",USA,31.10.1982,1982,1951,W23,"New York, NY (USA)",268760,67110

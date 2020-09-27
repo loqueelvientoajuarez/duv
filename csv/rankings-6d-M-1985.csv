@@ -1,0 +1,7 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+975.2,1009.733,I,"Boussiquet, Jean-Gilles",FRA,09.10.1985,1985,26.07.1944,M40,La Rochelle (FRA),5394,6828
+882.2,882.2,I,"Simonnet, Patrick",FRA,09.10.1985,1985,24.09.1955,M23,La Rochelle (FRA),78131,6828
+929.798,930.822,I,"Mittleman, Stuart",USA,02.01.1985,1985,12.05.1951,M23,"Boulder, CO (USA)",78159,10287
+859.389,860.335,T,"Mittleman, Stuart",USA,05.04.1985,1985,12.05.1951,M23,"El Cajon, CA (USA)",78159,10288
+854.0,854.0,I,"Cherns, Trishul",CAN,09.10.1985,1985,29.03.1957,M23,La Rochelle (FRA),22370,6828
+805.8,819.152,I,"Prawda, Alvin",USA,09.10.1985,1985,14.03.1947,M35,La Rochelle (FRA),35851,6828

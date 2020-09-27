@@ -1,0 +1,12 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+677.533,694.407,S,"Hausmann, Martina",GER,11.09.1999,1999,13.01.1960,W35,"New York, NY (USA)",857,2582
+659.831,680.308,S,"Mairer, Paula (Surasa)",AUT,14.09.1999,1999,06.03.1959,W40,"New York, NY (USA)",3437,2153
+531.083,559.683,S,"Janosi, Elvira",SRB,05.05.1999,1999,02.12.1955,W40,"New York, NY (USA)",11324,6590
+510.0,542.207,T,"Condon, Kate",GBR,20.11.1999,1999,18.07.1955,W40,"Colac, VIC (AUS)",16993,6561
+482.803,482.803,,"Fischerlehner, Brigitte",AUT,09.05.1999,1999,1971,W23,"New York, NY (USA)",78185,6592
+418.429,424.629,,"Papp, Andrea",HUN,09.05.1999,1999,1961,W35,"New York, NY (USA)",60188,6592
+373.367,478.308,,"Klandt, Hannelore (Srotaswini)",GER,09.05.1999,1999,1939,W55,"New York, NY (USA)",113099,6592
+497.287,497.287,S,"Westfahl, Karin",CAN,05.05.1999,1999,1972,W23,"New York, NY (USA)",66882,6590
+737.079,759.954,,"Cunningham, Catherine (Dipali)",AUS,09.05.1999,1999,27.08.1958,W40,"New York, NY (USA)",22386,6592
+532.692,629.213,S,"File, Dianne (Niribili)",NZL,05.05.1999,1999,1945,W50,"New York, NY (USA)",14781,6590
+424.4,424.4,T,"Buckland, Isobel",AUS,20.11.1999,1999,,#NA,"Colac, VIC (AUS)",64780,6561
