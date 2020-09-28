@@ -43,13 +43,15 @@ def alltime_results(event, /, *, year_min=FIRST_YEAR, year_max=THIS_YEAR,
             print(f'Try to load {year} {gender} result table')
             tab = yearly_results(event, gender=gender, year=year, 
                 overwrite=overwrite)
+            nrows = len(tab)
+            tab.add_column([gender] * nrows, name='gender', index=0)
             rows += tab.as_array().tolist()
 
     tab = Table(rows=rows, names=tab.colnames)
     nrows = len(tab)
     
     # add event name and performance unit.
-    tab.add_column(nrows * [event], name='event', index=0)
+    tab.add_column(nrows * [event], name='event', index=1)
     timed = event[-1] in 'hd'
 
     if timed:
@@ -59,9 +61,9 @@ def alltime_results(event, /, *, year_min=FIRST_YEAR, year_max=THIS_YEAR,
         perf = tab['performance']
         perf = [np.dot(fact, [int(s) for s in p.split(':')]) for p in perf]
         tab.remove_column('performance')
-        tab.add_column(perf, name='performance', index=0)
+        tab.add_column(perf, name='performance', index=2)
         unit = 's'
-    tab.add_column(nrows * [unit], name='performance_unit', index=2)
+    tab.add_column(nrows * [unit], name='performance_unit', index=3)
 
     # transform dates into ISO format
     date = ['-'.join(str(d).split('.')[::-1]) if d is not None else '0001-01-01'
