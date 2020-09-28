@@ -1,0 +1,79 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+6:41:48,6:37:31,ST,"Malafeeva, Ekaterina (Малафеева Екатерина)",RUS,28.09.2003,2003,31.03.1967,W35,San Giovanni Lupatoto (VR) (ITA),6844,20282
+6:43:40,6:43:40,ST,"Sanna, Paola",ITA,28.09.2003,2003,19.03.1977,W23,San Giovanni Lupatoto (VR) (ITA),6848,20282
+6:46:37,6:22:28,ST,"Duran, Bakiye",TUR,28.09.2003,2003,11.01.1959,W40,San Giovanni Lupatoto (VR) (ITA),52429,20282
+6:53:40,6:43:37,ST,"Berces, Edit",HUN,28.09.2003,2003,,W35,San Giovanni Lupatoto (VR) (ITA),5752,20282
+7:46:37,7:46:37,,"Windram-Geddes, Morgana",GBR,11.10.2003,2003,29.01.1982,WU23,"Boalsburg, PA (USA)",76905,8733
+5:48:12,5:47:50,ST,"Sakurai, Norimi (櫻井教美)",JPN,28.09.2003,2003,20.04.1971,W23,San Giovanni Lupatoto (VR) (ITA),30218,20282
+6:54:42,6:42:14,,"Runyan, Janet",USA,01.03.2003,2003,1962,W40,"Houston, TX (USA)",27446,2617
+6:57:10,6:39:02,,"Schumann, Rena",USA,08.11.2003,2003,14.06.1961,W40,"Sacramento, CA (USA)",24526,11345
+6:58:39,6:46:03,,"Reicher, Jody-Lynn",USA,27.04.2003,2003,1962,W40,"New Preston, CT (USA)",15124,2985
+6:59:39,6:44:20,,"Cherniak, Daniele",USA,28.06.2003,2003,24.10.1961,W40,"Niagara-on-the-Lake, ON (CAN)",50016,7275
+7:07:49,7:06:43,,"Johnson, Rebecca",USA,08.11.2003,2003,1969,W23,"Sacramento, CA (USA)",15085,11345
+7:11:05,6:55:21,,"Cherniak, Daniele",USA,11.10.2003,2003,24.10.1961,W40,"Canandaigua, NY (USA)",50016,5906
+7:27:38,7:27:38,,"Fingar, Julie",USA,08.11.2003,2003,1975,W23,"Sacramento, CA (USA)",48755,11345
+7:43:07,7:40:57,,"Byers, Christine",USA,01.11.2003,2003,1968,W23,"Chicago, IL (USA)",57701,2868
+7:45:43,7:34:24,,"Bialla, Linda",USA,08.02.2003,2003,1963,W35,"Sacramento, CA (USA)",68478,13345
+7:46:17,7:29:16,,"Lantz, Rena",USA,08.02.2003,2003,14.06.1961,W40,"Sacramento, CA (USA)",138502,13345
+7:50:28,6:53:50,,"Gessner, June",USA,08.02.2003,2003,01.02.1953,W50,"Sacramento, CA (USA)",16892,13345
+7:55:33,7:55:02,,"Kartes-Heino, Jodi",USA,15.02.2003,2003,1970,W23,"New York, NY (USA)",35833,13463
+8:00:24,7:07:51,,"Sommers, Patricia",CAN,28.06.2003,2003,1953,W45,"Niagara-on-the-Lake, ON (CAN)",18116,7275
+8:07:14,7:34:01,ST,"Powell, Sandra",USA,19.07.2003,2003,1957,W45,"San Mateo, CA (USA)",5513,48312
+8:10:04,7:36:39,,"Georges, Wendy",USA,08.02.2003,2003,1957,W45,"Sacramento, CA (USA)",33592,13345
+8:10:39,7:58:44,,"Bialla, Linda",USA,08.11.2003,2003,1963,W35,"Sacramento, CA (USA)",68478,11345
+8:10:50,8:10:50,,"Kuehn, Nancee",USA,08.11.2003,2003,1973,W23,"Sacramento, CA (USA)",68556,11345
+8:18:09,8:03:10,,"McFadden, Linda",USA,19.04.2003,2003,1962,W40,"San Francisco, CA (USA)",13645,4443
+8:18:12,8:03:13,,"McFadden, Linda",USA,08.02.2003,2003,1962,W40,"Sacramento, CA (USA)",13645,13345
+8:20:31,8:19:58,ST,"Solverson, Kelly",USA,19.07.2003,2003,1970,W23,"San Mateo, CA (USA)",68546,48312
+8:20:42,8:02:26,,"Marino, Gail",USA,15.02.2003,2003,1961,W40,"New York, NY (USA)",50886,13463
+8:22:19,8:21:46,,"Solverson, Kelly",USA,08.11.2003,2003,1970,W23,"Sacramento, CA (USA)",68546,11345
+8:26:45,8:14:27,,"Burk, Ann",USA,27.04.2003,2003,1963,W35,"New Preston, CT (USA)",63956,2985
+8:30:15,7:59:57,,"Hull, Helen",USA,08.02.2003,2003,1958,W40,"Sacramento, CA (USA)",68614,13345
+8:32:58,8:31:38,,"Green, Stephanie",USA,08.11.2003,2003,1969,W23,"Sacramento, CA (USA)",68785,11345
+8:40:36,8:05:06,,"McMahon, Elaina",USA,08.11.2003,2003,1957,W45,"Sacramento, CA (USA)",37068,11345
+8:40:51,8:21:51,ST,"Weiss, Xy (Chrissy)",USA,19.07.2003,2003,1961,W40,"San Mateo, CA (USA)",13646,48312
+8:41:04,7:44:04,,"Belilgne, Admas",USA,15.02.2003,2003,17.03.1953,W45,"New York, NY (USA)",5169,13463
+8:41:06,8:39:45,,"Varlamova-King, Olga",USA,11.10.2003,2003,1969,W23,"Canandaigua, NY (USA)",37195,5906
+8:45:00,8:25:51,,"Sanford, Terri",USA,08.11.2003,2003,1961,W40,"Sacramento, CA (USA)",27217,11345
+8:47:49,7:38:28,,"Levet, Janice",USA,08.02.2003,2003,1951,W50,"Sacramento, CA (USA)",55667,13345
+8:51:09,8:40:58,,"Paulson, Marianne",USA,08.11.2003,2003,1964,W35,"Sacramento, CA (USA)",27298,11345
+9:01:50,8:45:32,,"McFadden, Linda",USA,08.11.2003,2003,1962,W40,"Sacramento, CA (USA)",13645,11345
+9:10:18,8:04:03,,"Cuminale, Carol",USA,19.04.2003,2003,1952,W50,"San Francisco, CA (USA)",24614,4443
+9:13:44,9:00:17,,"Beattie, Kelly",USA,08.11.2003,2003,1963,W35,"Sacramento, CA (USA)",44144,11345
+9:14:02,7:42:58,,"Gaal, Soon",USA,08.02.2003,2003,1948,W50,"Sacramento, CA (USA)",35105,13345
+9:15:59,9:05:19,,"Dinovitzer, Cori",CAN,28.06.2003,2003,1964,W35,"Niagara-on-the-Lake, ON (CAN)",137313,7275
+9:23:46,9:06:48,,"Zapf, Rudy",USA,01.11.2003,2003,1962,W40,"Chicago, IL (USA)",18831,2868
+9:23:58,7:38:51,,"Felder, Lisa",USA,08.02.2003,2003,1946,W55,"Sacramento, CA (USA)",35082,13345
+9:27:25,8:31:35,,"Bryant, Patricia",USA,08.11.2003,2003,1954,W45,"Sacramento, CA (USA)",215827,11345
+9:29:15,9:08:29,,"Simonsen, Jacqueline",USA,28.06.2003,2003,1961,W40,"Niagara-on-the-Lake, ON (CAN)",17291,7275
+9:29:58,9:16:07,,"Burnett, Joanne",USA,08.11.2003,2003,1963,W35,"Sacramento, CA (USA)",68513,11345
+9:31:12,8:52:15,,"Grether, Joann",USA,08.11.2003,2003,1957,W45,"Sacramento, CA (USA)",68575,11345
+9:36:00,8:51:15,,"Davidson, Peggy",USA,08.02.2003,2003,1956,W45,"Sacramento, CA (USA)",24613,13345
+9:44:45,9:19:19,,"Gonzales, Marie",USA,08.11.2003,2003,03.06.1961,W40,"Sacramento, CA (USA)",68739,11345
+9:50:57,7:34:48,,"Fairbrother, Ruth",USA,15.02.2003,2003,1942,W60,"New York, NY (USA)",50102,13463
+9:56:26,9:34:40,,"Wheeler, Kathleen",USA,13.12.2003,2003,1961,W40,"Tallahassee, FL (USA)",46719,4990
+10:00:44,8:28:35,,"Kirk, Karen",USA,01.11.2003,2003,1949,W50,"Chicago, IL (USA)",57438,2868
+10:01:45,7:49:44,,"Elia, Barbara",USA,08.11.2003,2003,02.10.1944,W55,"Sacramento, CA (USA)",24628,11345
+10:04:55,10:04:55,,"Ghani, Susan",USA,08.11.2003,2003,1973,W23,"Sacramento, CA (USA)",162972,11345
+10:05:01,8:12:15,,"Toyne, Jane",CAN,08.11.2003,2003,1946,W55,"Sacramento, CA (USA)",62331,11345
+10:05:25,10:05:25,,"Moan, Cynder",USA,08.11.2003,2003,1975,W23,"Sacramento, CA (USA)",215831,11345
+10:07:30,9:36:28,,"Opiela, Sandra",USA,08.11.2003,2003,1959,W40,"Sacramento, CA (USA)",104712,11345
+10:08:40,9:27:10,,"McQuinn, Linda",USA,01.11.2003,2003,1957,W45,"Chicago, IL (USA)",57465,2868
+10:09:10,8:15:38,,"Felder, Lisa",USA,08.11.2003,2003,1946,W55,"Sacramento, CA (USA)",35082,11345
+10:21:14,9:54:13,,"Thoma, Katrina",USA,11.10.2003,2003,1960,W40,"Boalsburg, PA (USA)",132927,8733
+10:24:38,10:24:31,,"McSwain, Catherine",USA,01.11.2003,2003,1971,W23,"Chicago, IL (USA)",57679,2868
+10:44:50,10:44:50,,"Rhodes, Jennifer",USA,08.11.2003,2003,1979,W23,"Sacramento, CA (USA)",75298,11345
+10:44:50,9:54:44,,"Rhodes, Theresa",USA,08.11.2003,2003,1956,W45,"Sacramento, CA (USA)",47677,11345
+10:51:10,10:51:10,,"Baron, Jamie",USA,08.11.2003,2003,1978,W23,"Sacramento, CA (USA)",215833,11345
+10:53:50,10:46:51,,"Dison, Ruby",USA,08.11.2003,2003,23.01.1967,W35,"Sacramento, CA (USA)",48334,11345
+11:00:00,10:43:58,,"Kulkarni, Varsha",USA,01.11.2003,2003,1963,W35,"Chicago, IL (USA)",23355,2868
+11:11:34,8:29:28,,"von der Heydt, Carolyn",USA,13.12.2003,2003,1941,W60,"Tallahassee, FL (USA)",35925,4990
+11:50:11,9:45:38,,"Nacanisi, Leslie",USA,08.11.2003,2003,1947,W55,"Sacramento, CA (USA)",27249,11345
+12:04:07,12:00:43,,"Pellegrino, Beth",USA,28.06.2003,2003,1968,W23,"Niagara-on-the-Lake, ON (CAN)",66198,7275
+12:12:47,9:40:05,,"Landry, Marion",CAN,28.06.2003,2003,27.08.1944,W55,"Niagara-on-the-Lake, ON (CAN)",17017,7275
+12:19:38,11:47:28,,"Klaus, Patricia",USA,11.10.2003,2003,1960,W40,"Boalsburg, PA (USA)",157310,8733
+12:35:00,12:34:11,,"Steil, Eileen",USA,13.12.2003,2003,1970,W23,"Tallahassee, FL (USA)",87931,4990
+12:59:11,10:51:06,,"Rousseau, Bernadine",USA,28.06.2003,2003,1948,W50,"Niagara-on-the-Lake, ON (CAN)",21237,7275
+13:48:27,13:36:22,,"Dunda, Helen",USA,28.06.2003,2003,1965,W35,"Niagara-on-the-Lake, ON (CAN)",55783,7275
+9:08:31,7:38:21,ST,"Baird, Carol",AUS,04.10.2003,2003,15.03.1949,W50,"Adelaide, SA (AUS)",11520,6271
+11:15:02,11:15:02,ST,"Ward, Karina",AUS,04.10.2003,2003,1976,W23,"Adelaide, SA (AUS)",15504,6271

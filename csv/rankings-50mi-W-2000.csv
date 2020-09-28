@@ -1,0 +1,56 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+9:44:13,9:42:42,ST,"Zoboli, Elvira",ITA,24.09.2000,2000,21.12.1966,W23,San Giovanni Lupatoto (VR) (ITA),10209,50560
+15:21:13,14:18:24,ST,"Sponza, Eliana",ITA,24.09.2000,2000,05.04.1955,W45,San Giovanni Lupatoto (VR) (ITA),92827,50560
+19:58:31,17:34:13,ST,"Lepre, Sara",ITA,24.09.2000,2000,25.04.1950,W50,San Giovanni Lupatoto (VR) (ITA),8868,50560
+6:25:16,6:13:41,ST,"Trason, Ann",USA,31.12.2000,2000,30.08.1960,W40,"Queen Creek, AZ (USA)",68591,14092
+6:32:17,6:32:17,S,"Parrot, Dana",USA,25.03.2000,2000,22.11.1969,W23,"Pittsburgh, PA (USA)",35822,67026
+6:39:14,6:34:58,S,"Bollig, Deborah",USA,25.03.2000,2000,12.11.1963,W35,"Pittsburgh, PA (USA)",55749,67026
+6:47:59,6:38:05,,"Schumann, Rena",USA,11.11.2000,2000,14.06.1961,W35,"Rancho Cordova, CA (USA)",24526,11339
+7:02:18,6:56:09,S,"Rose, Tracy",USA,25.03.2000,2000,1962,W35,"Pittsburgh, PA (USA)",55752,67026
+7:07:11,6:54:20,,"Drach, Nancy",USA,09.12.2000,2000,1959,W40,"Tallahassee, FL (USA)",63462,4984
+7:08:00,7:06:54,S,"Anderson, Janice",USA,25.03.2000,2000,26.04.1966,W23,"Pittsburgh, PA (USA)",19493,67026
+7:12:00,7:07:23,S,"Heaslett, Ann",USA,25.03.2000,2000,14.12.1963,W35,"Pittsburgh, PA (USA)",9679,67026
+7:24:23,7:24:23,S,"Foster, Marianne",USA,25.03.2000,2000,1969,W23,"Pittsburgh, PA (USA)",55754,67026
+7:29:51,7:18:56,S,"Smith, Lisa",USA,25.03.2000,2000,16.09.1960,W35,"Pittsburgh, PA (USA)",55756,67026
+7:36:38,7:36:08,,"Fukami, Megumi",USA,02.09.2000,2000,1967,W23,"New York, NY (USA)",189968,13460
+7:38:49,7:38:49,S,"Benson, Katie",USA,25.03.2000,2000,1973,W23,"Pittsburgh, PA (USA)",55755,67026
+7:43:42,7:23:32,S,"Olsen, Susan",USA,25.03.2000,2000,09.05.1957,W40,"Pittsburgh, PA (USA)",5541,67026
+7:51:26,7:34:14,,"Hull, Helen",USA,11.11.2000,2000,1958,W40,"Rancho Cordova, CA (USA)",68614,11339
+7:58:24,7:53:17,,"Condon, Ally",USA,11.11.2000,2000,1963,W35,"Rancho Cordova, CA (USA)",129359,11339
+8:02:05,7:58:31,S,"D'Onofrio-Wood, Kathleen",USA,25.03.2000,2000,20.07.1964,W35,"Pittsburgh, PA (USA)",27314,67026
+8:11:23,7:28:15,,"Gessner, June",USA,12.02.2000,2000,01.02.1953,W45,"Sacramento, CA (USA)",16892,13339
+8:14:34,6:47:50,,"Eliot, Eileen",USA,09.12.2000,2000,1944,W55,"Tallahassee, FL (USA)",55657,4984
+8:16:14,7:37:41,,"Mayhew, Debra",USA,11.11.2000,2000,1953,W45,"Rancho Cordova, CA (USA)",68853,11339
+8:19:18,8:04:17,S,"Drach, Nancy",USA,25.03.2000,2000,1959,W40,"Pittsburgh, PA (USA)",63462,67026
+8:23:10,8:10:57,,"Forget, Kim",USA,19.11.2000,2000,1960,W35,"Coventry, RI (USA)",43402,10872
+8:28:10,8:20:45,,"McFadden, Linda",USA,11.11.2000,2000,1962,W35,"Rancho Cordova, CA (USA)",13645,11339
+8:44:00,8:36:21,,"Gayton, Vicki",USA,14.10.2000,2000,1962,W35,"Brunswick, ME (USA)",98150,5610
+8:44:40,8:21:51,S,"Hewitt, Loreen",USA,25.03.2000,2000,1957,W40,"Pittsburgh, PA (USA)",55760,67026
+8:46:39,8:46:39,,"Hemond, Tara",USA,23.04.2000,2000,1971,W23,"New Preston, CT (USA)",63925,2982
+8:51:00,8:47:05,,"Corbett-McNeely, Catra",USA,12.02.2000,2000,1964,W35,"Sacramento, CA (USA)",18615,13339
+8:52:52,8:06:05,,"Belilgne, Admas",USA,02.09.2000,2000,17.03.1953,W45,"New York, NY (USA)",5169,13460
+8:53:35,8:53:35,,"Haskins, Patricia",USA,11.11.2000,2000,1971,W23,"Rancho Cordova, CA (USA)",68805,11339
+8:58:57,8:58:22,S,"Tadesse, Heidi",USA,25.03.2000,2000,1967,W23,"Pittsburgh, PA (USA)",55759,67026
+9:02:44,8:35:00,,"Davidson, Peggy",USA,12.02.2000,2000,1956,W40,"Sacramento, CA (USA)",24613,13339
+9:04:26,9:04:26,,"Novit-Thomas, Tara",USA,09.12.2000,2000,1969,W23,"Tallahassee, FL (USA)",79724,4984
+9:10:36,8:57:14,,"Cizek, Diane",CAN,24.06.2000,2000,1960,W35,"Niagara-on-the-Lake, ON (CAN)",62313,7293
+9:15:47,8:08:53,,"Krantz, Suzanne",USA,11.11.2000,2000,1949,W50,"Rancho Cordova, CA (USA)",68784,11339
+9:19:14,9:11:05,,"McFadden, Linda",USA,12.02.2000,2000,1962,W35,"Sacramento, CA (USA)",13645,13339
+9:38:02,8:47:17,,"Handel, Mary",USA,11.11.2000,2000,1952,W45,"Rancho Cordova, CA (USA)",68731,11339
+9:39:04,9:34:47,,"Bramer, Julia",USA,11.11.2000,2000,1964,W35,"Rancho Cordova, CA (USA)",47721,11339
+9:42:06,8:12:49,,"Troisi, Cathy",USA,24.06.2000,2000,1946,W50,"Niagara-on-the-Lake, ON (CAN)",48922,7293
+9:42:18,8:12:59,,"Johnson, Cassandra",USA,11.11.2000,2000,1946,W50,"Rancho Cordova, CA (USA)",16871,11339
+9:42:29,9:28:20,,"Parker, Trina",USA,11.11.2000,2000,1960,W35,"Rancho Cordova, CA (USA)",68712,11339
+9:55:38,8:04:37,,"Bumpus, Joan",USA,12.02.2000,2000,1943,W55,"Sacramento, CA (USA)",108697,13339
+9:58:26,7:07:39,,"Scheberies, Juliane",USA,11.11.2000,2000,1934,W65,"Rancho Cordova, CA (USA)",35089,11339
+10:03:03,9:32:15,,"Davidson, Peggy",USA,11.11.2000,2000,1956,W40,"Rancho Cordova, CA (USA)",24613,11339
+10:15:18,9:38:46,S,"Julin, Jill",USA,25.03.2000,2000,1955,W40,"Pittsburgh, PA (USA)",132905,67026
+10:15:57,10:15:57,,"George, Leah",USA,02.09.2000,2000,1972,W23,"New York, NY (USA)",267606,13460
+10:23:20,8:27:09,,"Elia, Barbara",USA,11.11.2000,2000,02.10.1944,W55,"Rancho Cordova, CA (USA)",24628,11339
+11:07:15,10:21:45,,"Redding, Lydia Deborah",USA,23.04.2000,2000,1954,W45,"New Preston, CT (USA)",35873,2982
+11:33:53,9:16:55,,"Hayes, Terri",USA,11.11.2000,2000,14.04.1943,W55,"Rancho Cordova, CA (USA)",44199,11339
+11:34:14,9:09:34,,"Fisher, Lucinda",USA,11.11.2000,2000,1941,W55,"Rancho Cordova, CA (USA)",93378,11339
+11:47:43,9:20:14,,"Peterson, Margery",USA,11.11.2000,2000,1941,W55,"Rancho Cordova, CA (USA)",163134,11339
+11:51:37,10:10:17,,"Nacanisi, Leslie",USA,11.11.2000,2000,1947,W50,"Rancho Cordova, CA (USA)",27249,11339
+12:17:20,10:24:14,,"Malmberg, Helen",CAN,24.06.2000,2000,1946,W50,"Niagara-on-the-Lake, ON (CAN)",41055,7293
+8:14:12,5:25:59,T,"Young, Shirley",AUS,13.05.2000,2000,24.12.1929,W70,"Burwood, VIC (AUS)",15329,6633

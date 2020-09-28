@@ -1,0 +1,16 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+6:56:37,6:56:10,S,"Cherniak, Daniele",USA,24.04.1994,1994,24.10.1961,W23,"New Preston, CT (USA)",50016,44262
+7:01:12,6:58:05,,"Manett, Sherry",USA,09.04.1994,1994,1958,W35,"Pittsburgh, PA (USA)",619126,44260
+7:45:27,7:43:16,ST,"Lees-McGeough, Lorraine",CAN,23.10.1994,1994,1959,W23,"Adelaide, SA (AUS)",96925,7000
+8:00:19,7:35:47,S,"Helling, Dorothy",USA,24.04.1994,1994,1950,W40,"New Preston, CT (USA)",74451,44262
+8:10:31,7:55:46,S,"McNamara, Diane",USA,24.04.1994,1994,1953,W40,"New Preston, CT (USA)",85461,44262
+8:19:34,8:15:53,,"Cocchi, Meg",USA,05.02.1994,1994,1958,W35,"Sacramento, CA (USA)",266896,13327
+8:55:42,8:51:45,,"Sotoodeh, Elizabeth",USA,05.02.1994,1994,1958,W35,"Sacramento, CA (USA)",115616,13327
+9:05:05,8:51:51,,"Gail, Lorenda",USA,05.02.1994,1994,1954,W35,"Sacramento, CA (USA)",68873,13327
+9:08:31,9:00:31,,"Rhodes, Theresa",USA,05.02.1994,1994,1956,W35,"Sacramento, CA (USA)",47677,13327
+9:23:52,8:45:25,S,"Kuhl, Janice",USA,24.04.1994,1994,1948,W45,"New Preston, CT (USA)",63905,44262
+9:25:25,8:35:47,,"Takagishi, Gloria",USA,05.02.1994,1994,1946,W45,"Sacramento, CA (USA)",106290,13327
+9:33:16,8:54:11,,"Gerard, Jeane Ann",USA,05.02.1994,1994,1948,W45,"Sacramento, CA (USA)",214002,13327
+11:00:52,9:34:02,,"Johnson, Connie",USA,09.04.1994,1994,1942,W50,"Pittsburgh, PA (USA)",1017825,44260
+13:34:20,12:31:04,ST,"Worley, Susan",AUS,23.10.1994,1994,1947,W45,"Adelaide, SA (AUS)",33544,7000
+14:16:11,10:58:56,ST,"Bardy, Susan",AUS,23.10.1994,1994,1933,W60,"Adelaide, SA (AUS)",43915,7000

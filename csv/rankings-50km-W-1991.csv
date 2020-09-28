@@ -1,0 +1,38 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+3:55:01,3:34:23,ST,"Dyck, Anna",GER,31.08.1991,1991,28.08.1944,W45,Elze (GER),472,2228
+3:57:48,3:49:08,S,"Böttcher, Angelika",GER,12.10.1991,1991,16.10.1949,W40,Scheeßel (GER),232,2232
+4:22:26,4:22:23,S,"Richter, Beate",GER,20.04.1991,1991,05.11.1959,W23,Rodenbach (GER),32100,2226
+4:33:38,4:33:38,,"Rühl, Silke",GER,14.09.1991,1991,10.06.1968,W23,Quickborn (GER),32283,14961
+4:38:38,4:08:10,,"Gutbrodt, Dietlinde",GER,14.09.1991,1991,28.08.1942,W45,Quickborn (GER),15342,14961
+5:18:26,4:33:06,,"Ulke, Hildegard",GER,14.09.1991,1991,1938,W50,Quickborn (GER),323483,14961
+5:39:30,5:13:08,,"Kühlcke, Hella",GER,14.09.1991,1991,1944,W45,Quickborn (GER),125878,14961
+6:40:50,6:20:22,,"Damköhler, Ellen",GER,14.09.1991,1991,1947,W40,Quickborn (GER),125904,14961
+3:57:11,3:57:11,,"Johnson, Paula",USA,14.12.1991,1991,1961,W23,"Tallahassee, FL (USA)",211147,11375
+4:10:24,4:10:24,,"Procter, Rachael",USA,09.02.1991,1991,1964,W23,"Sacramento, CA (USA)",215180,13320
+4:18:58,4:18:58,,"Woodworth, Mary Kae",USA,14.12.1991,1991,1960,W23,"Tallahassee, FL (USA)",132121,11375
+4:26:45,4:26:45,,"Vaughan, Laura",USA,09.02.1991,1991,1965,W23,"Sacramento, CA (USA)",82939,13320
+4:40:03,4:29:50,,"Jeppson, Jody",USA,09.02.1991,1991,1949,W40,"Sacramento, CA (USA)",116123,13320
+4:41:39,4:22:27,,"Elam, Linda",USA,09.02.1991,1991,1945,W45,"Sacramento, CA (USA)",67090,13320
+4:41:40,4:29:25,,"Black, Shelley",USA,09.02.1991,1991,1948,W40,"Sacramento, CA (USA)",266911,13320
+4:42:07,4:41:49,,"Anderson, Heidi",USA,09.02.1991,1991,1958,W23,"Sacramento, CA (USA)",215209,13320
+4:53:52,4:53:33,,"Irvin, Kristina",USA,09.02.1991,1991,1958,W23,"Sacramento, CA (USA)",47021,13320
+5:07:13,4:59:46,,"Schmitz, Amy",USA,09.02.1991,1991,1951,W35,"Sacramento, CA (USA)",268803,13320
+5:17:12,5:03:25,,"Rinehart, Carol",USA,09.02.1991,1991,1948,W40,"Sacramento, CA (USA)",268806,13320
+5:18:14,4:53:31,,"Miller, Barbara Ann",USA,09.02.1991,1991,1944,W45,"Sacramento, CA (USA)",113335,13320
+5:18:14,5:01:59,,"Maynard, Kathy",USA,09.02.1991,1991,1947,W40,"Sacramento, CA (USA)",116004,13320
+5:19:29,5:18:40,,"Foster, Kathy",USA,09.02.1991,1991,1957,W23,"Sacramento, CA (USA)",268808,13320
+5:25:43,5:13:50,,"Holmberg, Deborah",USA,09.02.1991,1991,1949,W40,"Sacramento, CA (USA)",266915,13320
+5:30:40,5:27:08,,"Cundith, Loretta",USA,09.02.1991,1991,1954,W35,"Sacramento, CA (USA)",266110,13320
+5:33:30,3:47:19,,"Klein, Helen",USA,09.02.1991,1991,27.11.1922,W65,"Sacramento, CA (USA)",107121,13320
+5:39:53,5:10:03,,"Gilmore, Alice",USA,09.02.1991,1991,1943,W45,"Sacramento, CA (USA)",214010,13320
+5:44:07,5:44:03,,"Rounds, Theresa",USA,09.02.1991,1991,1959,W23,"Sacramento, CA (USA)",266936,13320
+5:47:37,5:09:36,,"Fisher, Lucinda",USA,09.02.1991,1991,1941,W45,"Sacramento, CA (USA)",93378,13320
+6:19:25,4:26:58,,"Adams, Po",USA,09.02.1991,1991,1924,W65,"Sacramento, CA (USA)",163018,13320
+6:20:25,5:01:09,,"Cook, Lois",USA,09.02.1991,1991,1932,W55,"Sacramento, CA (USA)",163013,13320
+6:29:33,5:46:56,,"Moise, Linda",USA,09.02.1991,1991,1941,W45,"Sacramento, CA (USA)",268814,13320
+7:12:04,7:12:04,,"Rick, Margie",USA,09.02.1991,1991,,#NA,"Sacramento, CA (USA)",268815,13320
+8:16:24,7:11:11,,"Kelley, Jacqueline",USA,09.02.1991,1991,1939,W50,"Sacramento, CA (USA)",115507,13320
+5:34:12,5:24:09,ST,"Barnes, Helen",AUS,21.07.1991,1991,1950,W40,"Adelaide, SA (AUS)",280266,59295
+5:48:32,5:30:44,ST,"Worley, Susan",AUS,21.07.1991,1991,1947,W40,"Adelaide, SA (AUS)",33544,59295
+6:32:03,5:14:40,ST,"Bardy, Susan",AUS,21.07.1991,1991,1933,W55,"Adelaide, SA (AUS)",43915,59295
+7:50:37,7:36:28,ST,"Tait, Merrilyn",AUS,24.02.1991,1991,1950,W40,"Coburg, VIC (AUS)",170826,41054

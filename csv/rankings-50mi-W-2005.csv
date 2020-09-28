@@ -1,0 +1,80 @@
+performance,age_graded_performance,flags,name,nationality,date,year,date_of_birth,age_group,venue,runner_id,event_id
+8:06:49,8:06:49,,"Windram-Geddes, Morgana",GBR,15.10.2005,2005,29.01.1982,W23,"Boalsburg, PA (USA)",76905,8735
+8:17:08,7:38:31,,"Leerink, Junko",JPN,22.10.2005,2005,08.02.1959,W45,"Middletown, RI (USA)",5540,4126
+6:13:33,6:04:29,,"Semick-Pardue, Kami",USA,05.11.2005,2005,06.07.1966,W35,"Granite Bay, CA (USA)",12035,5944
+6:33:31,6:19:10,,"Anderson-Abbs, Beverley",CAN,05.11.2005,2005,15.04.1964,W40,"Granite Bay, CA (USA)",24476,5944
+6:44:20,6:42:26,,"Kimball, Nikki",USA,15.10.2005,2005,23.05.1971,W23,"Boalsburg, PA (USA)",9673,8735
+6:53:41,6:38:36,,"Heaslett, Ann",USA,29.10.2005,2005,14.12.1963,W40,"Chicago, IL (USA)",9679,4037
+6:55:46,6:31:05,,"Schumann, Rena",USA,05.11.2005,2005,14.06.1961,W40,"Granite Bay, CA (USA)",24526,5944
+7:01:04,6:56:34,,"Arnold, Carla",CAN,22.10.2005,2005,23.05.1969,W35,"Middletown, RI (USA)",9686,4126
+7:21:22,7:10:39,,"Nelson, Laura",USA,15.10.2005,2005,16.10.1965,W35,"Boalsburg, PA (USA)",11299,8735
+7:23:14,6:25:00,,"Mason, Linda",USA,10.12.2005,2005,1953,W50,"Tallahassee, FL (USA)",50078,3919
+7:23:45,7:23:45,,"Dick, Jennifer",CAN,29.10.2005,2005,09.09.1975,W23,"Chicago, IL (USA)",9687,4037
+7:44:04,7:43:59,,"Grafius, Amy",USA,05.11.2005,2005,1973,W23,"Granite Bay, CA (USA)",22498,5944
+7:44:34,7:24:22,,"McFadden, Linda",USA,16.04.2005,2005,1962,W40,"San Francisco, CA (USA)",13645,4454
+7:51:50,7:48:21,,"Messick, Joan",USA,22.10.2005,2005,1969,W35,"Middletown, RI (USA)",15045,4126
+7:53:56,7:48:52,,"McCauley, Deborah",USA,15.10.2005,2005,1968,W35,"Boalsburg, PA (USA)",116758,8735
+7:54:04,7:36:46,,"Cox, Helen",USA,10.12.2005,2005,1963,W40,"Tallahassee, FL (USA)",50080,3919
+7:58:44,7:37:55,,"Valley, Laurel",USA,15.10.2005,2005,1962,W40,"Brunswick, ME (USA)",43378,5620
+8:03:40,8:00:06,,"Messick, Joan",USA,16.04.2005,2005,1969,W35,"San Francisco, CA (USA)",15045,4454
+8:07:25,6:36:34,,"Grafius, Dee Dee",USA,05.11.2005,2005,09.04.1949,W55,"Granite Bay, CA (USA)",11247,5944
+8:14:57,8:09:40,,"Humphreys, Kimberley",USA,08.10.2005,2005,1968,W35,"Canandaigua, NY (USA)",104589,5908
+8:27:32,8:05:28,,"Nino, Kerry",USA,05.02.2005,2005,04.06.1962,W40,"Sacramento, CA (USA)",111898,9414
+8:27:32,7:15:16,,"Gessner, June",USA,05.02.2005,2005,01.02.1953,W50,"Sacramento, CA (USA)",16892,9414
+8:31:48,8:28:01,,"Prokop, Amy",USA,15.10.2005,2005,25.03.1970,W35,"Boalsburg, PA (USA)",157300,8735
+8:37:13,8:37:13,,"Magilligan, Eileen",USA,05.11.2005,2005,1974,W23,"Granite Bay, CA (USA)",104679,5944
+8:38:14,8:22:39,,"Castro, M. Graciela",USA,16.04.2005,2005,1964,W40,"San Francisco, CA (USA)",75287,4454
+8:41:55,8:41:55,,"Shipman, Kelly",USA,05.11.2005,2005,,#NA,"Granite Bay, CA (USA)",104680,5944
+8:44:33,8:34:29,,"Schankliess, Lynn",USA,05.11.2005,2005,05.03.1967,W35,"Granite Bay, CA (USA)",68551,5944
+8:45:52,8:35:47,,"Warren, Nancy",USA,05.11.2005,2005,1966,W35,"Granite Bay, CA (USA)",13651,5944
+8:47:37,8:37:30,,"Widdowson, Diana Lynne",USA,15.10.2005,2005,1966,W35,"Boalsburg, PA (USA)",46388,8735
+8:50:30,8:03:56,S,"Georges, Wendy",USA,16.04.2005,2005,1957,W45,"San Francisco, CA (USA)",33592,4452
+8:52:43,8:33:17,,"Rapp, Kimberly",USA,08.10.2005,2005,04.09.1964,W40,"Canandaigua, NY (USA)",45689,5908
+8:53:08,8:21:28,,"Mulvey, Cheryl",USA,15.10.2005,2005,1960,W40,"Brunswick, ME (USA)",62137,5620
+8:58:34,8:56:03,,"Reynolds, Christine",USA,15.10.2005,2005,1970,W23,"Boalsburg, PA (USA)",45661,8735
+9:04:37,8:36:48,,"Welper, Lisa",USA,29.10.2005,2005,1961,W40,"Chicago, IL (USA)",57672,4037
+9:08:10,6:55:51,,"Elia, Barbara",USA,05.11.2005,2005,02.10.1944,W60,"Granite Bay, CA (USA)",24628,5944
+9:12:11,8:17:51,,"Hurdman, Elizabeth",CAN,08.10.2005,2005,15.02.1957,W45,"Canandaigua, NY (USA)",18133,5908
+9:12:45,8:29:49,,"Della Torre, Jo Ann",USA,29.10.2005,2005,1958,W45,"Chicago, IL (USA)",58964,4037
+9:12:53,9:02:17,,"Warren, Nancy",USA,05.02.2005,2005,1966,W35,"Sacramento, CA (USA)",13651,9414
+9:13:32,7:06:00,,"Elia, Barbara",USA,05.02.2005,2005,02.10.1944,W60,"Sacramento, CA (USA)",24628,9414
+9:14:31,7:06:46,,"Elia, Barbara",USA,16.04.2005,2005,02.10.1944,W60,"San Francisco, CA (USA)",24628,4454
+9:14:39,9:04:01,,"Knight, Kyle Elizabeth",USA,22.10.2005,2005,1966,W35,"Middletown, RI (USA)",64240,4126
+9:26:34,8:36:50,,"Aistars, Juli",USA,29.10.2005,2005,12.10.1958,W45,"Chicago, IL (USA)",16877,4037
+9:27:00,8:06:16,,"Ibarra, Cheryl",USA,29.10.2005,2005,1952,W50,"Chicago, IL (USA)",58966,4037
+9:29:33,9:04:47,,"McFadden, Linda",USA,05.11.2005,2005,1962,W40,"Granite Bay, CA (USA)",13645,5944
+9:29:52,8:33:48,,"Davidson, Peggy",USA,05.02.2005,2005,1956,W45,"Sacramento, CA (USA)",24613,9414
+9:29:54,8:39:52,,"McQuinn, Linda",USA,29.10.2005,2005,1957,W45,"Chicago, IL (USA)",57465,4037
+9:38:00,7:37:33,,"Johnson, Cassandra",USA,05.11.2005,2005,1946,W55,"Granite Bay, CA (USA)",16871,5944
+9:40:10,7:07:22,,"Gosney, Eldrith",USA,05.11.2005,2005,1941,W60,"Granite Bay, CA (USA)",24602,5944
+9:44:33,9:26:58,,"Jozefski, Diane",USA,08.10.2005,2005,1964,W40,"Canandaigua, NY (USA)",48907,5908
+9:46:48,9:35:33,,"Vlach, Diane",USA,05.11.2005,2005,1966,W35,"Granite Bay, CA (USA)",33604,5944
+9:48:58,9:31:15,,"Paulson, Marianne",USA,05.11.2005,2005,1964,W40,"Granite Bay, CA (USA)",27298,5944
+9:55:41,9:15:04,,"Guenther, Karen",USA,05.11.2005,2005,1959,W45,"Granite Bay, CA (USA)",16902,5944
+9:56:48,9:26:19,,"Simonsen, Jacqueline",USA,24.04.2005,2005,1961,W40,"New Preston, CT (USA)",17291,4114
+9:59:09,9:06:33,,"Hoffmann, Lori",USA,05.11.2005,2005,1957,W45,"Granite Bay, CA (USA)",48443,5944
+10:00:44,8:21:59,,"Brownson, Christina",USA,05.11.2005,2005,1950,W50,"Granite Bay, CA (USA)",27307,5944
+10:02:48,9:36:35,,"Burke, Ann",USA,29.10.2005,2005,1962,W40,"Chicago, IL (USA)",46550,4037
+10:05:35,8:19:22,,"Kirk, Karen",USA,29.10.2005,2005,1949,W55,"Chicago, IL (USA)",57438,4037
+10:10:27,8:56:58,,"Redding, Lydia Deborah",USA,22.10.2005,2005,1954,W50,"Middletown, RI (USA)",35873,4126
+10:15:47,9:44:20,,"Wheeler, Kathleen",USA,10.12.2005,2005,1961,W40,"Tallahassee, FL (USA)",46719,3919
+10:24:10,10:22:33,,"Johnson, Becky",USA,05.02.2005,2005,1971,W23,"Sacramento, CA (USA)",82955,9414
+10:25:35,9:58:23,,"Seger, Nikki",USA,29.10.2005,2005,1962,W40,"Chicago, IL (USA)",17286,4037
+10:26:40,9:43:56,,"O'Keefe, Michelle",USA,05.11.2005,2005,1959,W45,"Granite Bay, CA (USA)",52955,5944
+10:32:34,8:34:40,,"Gaal, Soon",USA,16.04.2005,2005,1948,W55,"San Francisco, CA (USA)",35105,4454
+10:35:38,9:39:50,,"Moss, Debra",USA,05.11.2005,2005,1957,W45,"Granite Bay, CA (USA)",37223,5944
+10:36:30,9:12:52,,"Dunnells, Patricia",USA,05.11.2005,2005,1953,W50,"Granite Bay, CA (USA)",104624,5944
+10:38:35,10:36:56,,"Johnson, Becky",USA,05.11.2005,2005,1971,W23,"Granite Bay, CA (USA)",82955,5944
+10:43:05,9:59:14,,"Miller, Christine",USA,05.11.2005,2005,1959,W45,"Granite Bay, CA (USA)",24605,5944
+10:50:24,9:39:15,,"Hayes, Janet",USA,05.11.2005,2005,1955,W45,"Granite Bay, CA (USA)",35086,5944
+10:50:50,9:25:19,,"Hanif-Weddle, Famida",USA,05.11.2005,2005,1953,W50,"Granite Bay, CA (USA)",48337,5944
+11:10:26,11:00:39,,"Suyenaga, Jean",USA,05.11.2005,2005,1967,W35,"Granite Bay, CA (USA)",37125,5944
+11:12:53,7:23:51,,"Scheberies, Juliane",USA,05.11.2005,2005,1934,W70,"Granite Bay, CA (USA)",35089,5944
+11:20:28,11:20:28,,"Kivak-Tetley, Flora",USA,05.11.2005,2005,1980,W23,"Granite Bay, CA (USA)",104697,5944
+11:29:37,10:29:05,,"Bauza, Lori",USA,08.10.2005,2005,1957,W45,"Canandaigua, NY (USA)",45668,5908
+11:33:27,10:52:16,,"Hillery, Peggy",USA,08.10.2005,2005,1960,W40,"Canandaigua, NY (USA)",62418,5908
+12:25:30,12:25:30,,"Subbaraya, Padma",USA,05.11.2005,2005,1974,W23,"Granite Bay, CA (USA)",24630,5944
+12:31:30,12:20:32,,"Ribordy, Rebecca",USA,05.11.2005,2005,1967,W35,"Granite Bay, CA (USA)",104703,5944
+12:31:30,12:04:05,,"Campbell, Janine",USA,05.11.2005,2005,1963,W40,"Granite Bay, CA (USA)",104702,5944
+8:58:11,7:17:52,ST,"Baird, Carol",AUS,16.10.2005,2005,15.03.1949,W55,"Adelaide, SA (AUS)",11520,6103
+15:07:15,15:07:15,ST,"Barnett, Sarah",AUS,16.10.2005,2005,19.10.1975,W23,"Adelaide, SA (AUS)",11525,6103
