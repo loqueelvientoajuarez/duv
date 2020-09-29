@@ -3,6 +3,7 @@ import numpy as np
 from matplotlib import pylab as plt
 
 FORMAT = 'ascii.fixed_width_two_line'
+EVENTS = ['50km', '50mi', '100km', '100mi', '6h', '12h', '24h', '48h', '6d']
 
 def plot_histogram(ax, tab, *, key='age_group', unique=False, min, max):
    
@@ -64,25 +65,30 @@ def plot_histogram(ax, tab, *, key='age_group', unique=False, min, max):
     ax.set_ylabel('# of performances')
     ax.legend(fontsize='x-small', ncol=2)
 
-# def make_histogram(event):
-
-def print_event(event):
+def plot_event(event, /, *, unique=False, limits=None):
     tab = Table.read(f"txt/results-{event}.txt", format=FORMAT)
 
-    if event == '100km':
-        min, max = 6, 24
-    elif event == '50km':
-        min, max = 2.5, 10
-    elif event == '50mi':
-        min, max=  5, 20
-    elif event == '100mi':
-        min, max = 11, 36
-    elif event == '24h':
-        min, max = 60, 312
-    elif event == '48h':
-        min, max = 120, 480
-    elif event == '6d':
-        min, max = 256, 1048
+    if limits is None:
+        if event == '100km':
+            min, max = 6, 24
+        elif event == '50km':
+            min, max = 2.5, 10
+        elif event == '50mi':
+            min, max=  5, 20
+        elif event == '100mi':
+            min, max = 11, 36
+        elif event == '6h':
+            min, max = 40, 100
+        elif event == '12h':
+            min, max = 50, 170
+        elif event == '24h':
+            min, max = 60, 312
+        elif event == '48h':
+            min, max = 120, 480
+        elif event == '6d':
+            min, max = 256, 1048
+    else:
+        min, max = [float(x) for x in limits]
 
     fig = plt.figure(1, figsize=(6,8))
     fig.clf()
@@ -95,19 +101,21 @@ def print_event(event):
             ax.set_xticklabels([])
     fig.tight_layout()
     fig.subplots_adjust(wspace=0, hspace=0)
-    fig.show() 
     fig.savefig(f"pdf/histogram-{event}.pdf")
 
 
-if __name__ == "__main__":
-    print_event(sys.argv[0])
+if __name__ == '__main__':
 
-#print_event('50km')
-#print_event('50mi')
-#print_event('100km')
-#print_event('100mi')
-#print_event('24h')
-#print_event('48h')
-# print_event('6d')
-# print_event('6h')
-# print_event('12h')
+    parser = argparse.ArgumentParser(
+        description="Plot histogram of performances for an ultrarunning event"
+    )
+    parser.add_argument('event', choices=EVENTS, metavar='event',
+        help="IAU-sanctionned event (distance or timed-event)")
+    parser.add_argument('--unique', '-u', default=False, action='store_true', 
+        help="Only consider the best performance of a given runner in each AG")
+    parser.add_argument('--limits', default=None, nargs=2,
+        help="Performance range to consider (in hours or kilometres)")
+    args = parser.parse_args()
+
+    plot_event(args.event, unique=args.unique, limits=args.limits) 
+
